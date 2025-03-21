@@ -1,0 +1,16 @@
+{
+    "files.exclude": {
+        "**/.mypy_cache": true,
+        "**/__pycache__": true
+    },
+    "code-runner.executorMap": {
+        "python": "clear && $(pwd)/.venv/bin/python -u"
+    },
+    "cSpell.words": [
+        "pycache",
+        "dotenv",
+        "Rossum",
+        "mypy",
+        "venv"
+    ]
+}
